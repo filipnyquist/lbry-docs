@@ -1,0 +1,14 @@
+{
+    "lbry": {
+        "v1.0": {
+            "documentation": "lbry/v1.0/documentation",
+            "customPages": "lbry/v1.0/customPages",
+            "customContent": {
+                "appearance": {
+                    "html_body": "lbry/v1.0/customContent/appearance/landing_page.html",
+                    "stylesheet": "lbry/v1.0/customContent/appearance/styles.css"
+                }
+            }
+        }
+    }
+}

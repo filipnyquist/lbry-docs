@@ -1,0 +1,6 @@
+{
+    "projectNames": {
+        "staging": "lbry_staging",
+        "production": "lbry"
+    }
+}

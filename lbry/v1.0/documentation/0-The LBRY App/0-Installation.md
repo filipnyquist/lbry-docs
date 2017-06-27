@@ -7,4 +7,4 @@ slug: installation
   "body": "Keep in mind that we are in beta and stuff can be slow, laggy and kinda-not-working."
 }
 [/block]
-Stuff will be added here soon!
+Stuff will be added here soon! :)
